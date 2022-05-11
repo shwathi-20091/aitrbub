@@ -1,0 +1,47 @@
+.grid{
+    position: absolute;
+width: 395.91px;
+height: 232px;
+
+}
+.content{
+    padding:100px;
+    display: flex;
+justify-content: center;
+}
+.heading{
+
+
+position: absolute;
+width: 347px;
+height: 40px;
+left: 36px;
+top: 320px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+/* identical to box height, or 40px */
+
+
+color: #000000;
+}
+.sub{
+    position: absolute;
+width: 310px;
+height: 56px;
+left: 36px;
+top: 386px;
+
+
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 20px;
+/* or 18px */
+
+
+color: #222222;
+}

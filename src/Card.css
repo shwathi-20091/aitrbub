@@ -1,0 +1,35 @@
+.card{
+    width:190px;
+    font-size:12px;
+    position: absolute;
+
+height: 68px;
+left: 36px;
+top: 495px;
+}
+.card-image{
+    width:100px;
+    border-radius:8px;
+}
+.card-status{
+    diaplay:flex;
+    align-items: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+   
+}
+.star{
+    position: absolute;
+width: 14px;
+height: 14px;
+background: #fcf6f7;
+border-radius: 0.5px;
+}
+.num{
+    font-weight: 900;
+}
+.num1{
+ color: #918E9B;
+}
